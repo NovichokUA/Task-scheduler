@@ -29,3 +29,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 </Provider>
 </React.StrictMode>
 );
+
+Далі встановлюємо бібліотеку, яка дозволить ініціалізувати логіку Redux DevTools та зв'язати її з розширенням в інструментах розробника.
+
+**_npm install @redux-devtools/extension_**
